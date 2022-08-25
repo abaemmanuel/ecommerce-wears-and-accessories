@@ -1,0 +1,9 @@
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.csproj.AssemblyReference.cache
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.AssemblyInfoInputs.cache
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.AssemblyInfo.cs
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.csproj.CoreCompileInputs.cache
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.RazorAssemblyInfo.cache
+C:\Users\Abax\Documents\Project for Git\Ecommerce-master\EcommerceWeek7\obj\Debug\net5.0\EcommerceWeek7.RazorAssemblyInfo.cs

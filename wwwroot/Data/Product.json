@@ -1,0 +1,178 @@
+﻿[
+  {
+    "id": "643d0286-000a-4ea2-991a-f2eaba423b56",
+    "name": "SALSOLA KALI POLLEN",
+    "price": 40.22,
+    "ImageUrl": "http://dummyimage.com/1945x1893.png/cc0000/ffffff",
+    "CategoryId": "3f5a2275-c04e-4c12-b580-29d3e287c65a",
+    "Ratings": 1,
+    "description": "lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis"
+  },
+  {
+    "id": "57bf7d0c-fb9b-40a8-a60d-1b36556bdd55",
+    "name": "Ammonium Lactate",
+    "price": 15.35,
+    "ImageUrl": "http://dummyimage.com/1426x1460.png/5fa2dd/ffffff",
+    "CategoryId": "895b6cca-1fe5-49ff-aada-797d180feb97",
+    "Ratings": 2,
+    "description": "morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et"
+  },
+  {
+    "id": "2d28acb5-d83b-4c52-a413-57b88b4c4b1a",
+    "name": "Transanosil",
+    "price": 165.31,
+    "ImageUrl": "http://dummyimage.com/1464x1444.png/5fa2dd/ffffff",
+    "CategoryId": "ab3610f6-ee5d-4823-bc95-ddcb212ea8d1",
+    "Ratings": 3,
+    "description": "faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut"
+  },
+  {
+    "id": "0083aa43-a2c7-4e0c-8bd9-20603539f7d8",
+    "name": "Infergen",
+    "price": 39.65,
+    "ImageUrl": "http://dummyimage.com/1606x1427.png/ff4444/ffffff",
+    "CategoryId": "815de705-4599-49c3-85b5-efb12c3d24e1",
+    "Ratings": 4,
+    "description": "felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse"
+  },
+  {
+    "id": "f88016f9-a418-4f16-87de-9e9c3822c649",
+    "name": "nasal",
+    "price": 216.52,
+    "ImageUrl": "http://dummyimage.com/1305x1344.png/dddddd/000000",
+    "CategoryId": "9cad0a8b-3c8c-4ba3-8b2e-6ff8a8b76731",
+    "Ratings": 5,
+    "description": "lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate"
+  },
+  {
+    "id": "75f3accf-8300-49dc-b687-9a5e3904a046",
+    "name": "Up and Up minoxidil",
+    "price": 221.36,
+    "ImageUrl": "http://dummyimage.com/1767x1957.png/cc0000/ffffff",
+    "CategoryId": "e80db44b-42ae-4b6c-b962-e0d5669b0771",
+    "Ratings": 6,
+    "description": "ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing"
+  },
+  {
+    "id": "da1c2361-fe51-4dfc-83f5-85971e76916f",
+    "name": "rx act ibuprofen pm",
+    "price": 27.43,
+    "ImageUrl": "http://dummyimage.com/1569x1779.png/dddddd/000000",
+    "CategoryId": "fdf0f5e2-88b2-4b87-9369-ad671db06b10",
+    "Ratings": 7,
+    "description": "ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam"
+  },
+  {
+    "id": "308d0d6c-d968-4028-b6a1-41ad745d15b4",
+    "name": "Diclofenac Sodium Delayed Release",
+    "price": 41.52,
+    "ImageUrl": "http://dummyimage.com/1805x1962.png/dddddd/000000",
+    "CategoryId": "cecd60e4-c5cd-4a6e-9326-3d48dac907b0",
+    "Ratings": 8,
+    "description": "risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu"
+  },
+  {
+    "id": "b0c4f38a-bd31-4a7e-bac4-467dbb9d5bdd",
+    "name": "Degree for Men Sport",
+    "price": 115.97,
+    "CategoryId": "de1c218b-f04b-4876-a936-ad68749f3b42",
+    "Ratings": 9
+  },
+  {
+    "id": "7034eda8-8fdc-4f6b-83e9-1244de497418",
+    "name": "Theraflu",
+    "price": 45.97,
+    "ImageUrl": "http://dummyimage.com/1844x1959.png/cc0000/ffffff",
+    "CategoryId": "10d8b5ea-83c1-4668-963d-7668f726552f",
+    "Ratings": 10,
+    "description": "platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id"
+  },
+  {
+    "id": "8c82b932-bca6-4513-95d8-46d0ba3cc42d",
+    "name": "Allscale",
+    "price": 29.36,
+    "ImageUrl": "http://dummyimage.com/1564x1740.png/ff4444/ffffff",
+    "CategoryId": "335abf86-b9f9-4b77-b552-48342253cbc6",
+    "Ratings": 11,
+    "description": "in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec"
+  },
+  {
+    "id": "a1fb14b9-2d77-424e-9c58-1c6aea0dfb10",
+    "name": "Rite Aid",
+    "price": 47.56,
+    "ImageUrl": "http://dummyimage.com/1676x1563.png/ff4444/ffffff",
+    "CategoryId": "cc6b80f5-d616-47b7-a45d-529b086f987f",
+    "Ratings": 12,
+    "description": "sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse"
+  },
+  {
+    "id": "23885542-e15d-415e-8c80-d82627c95f7d",
+    "name": "RoC Multi correxion Lift Anti Gravity Day Moisturizer",
+    "price": 172.82,
+    "ImageUrl": "http://dummyimage.com/1645x1982.png/5fa2dd/ffffff",
+    "CategoryId": "67413434-a571-44ae-91bd-9c3e9b8d25da",
+    "Ratings": 13,
+    "description": "sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id"
+  },
+  {
+    "id": "28136eb0-1f78-4b4a-8cb6-99881bffe082",
+    "name": "citalopram hydrobromide",
+    "price": 188.02,
+    "ImageUrl": "http://dummyimage.com/1396x1844.png/ff4444/ffffff",
+    "CategoryId": "6d69b4aa-b2be-4151-a8bd-b704272382c9",
+    "Ratings": 14,
+    "description": "integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in"
+  },
+  {
+    "id": "4a3bc990-7375-46d5-bbb2-04c1a1822e1c",
+    "name": "Methylphenidate Hydrochloride",
+    "price": 141.69,
+    "ImageUrl": "http://dummyimage.com/1302x1727.png/ff4444/ffffff",
+    "CategoryId": "c58e217b-289c-4514-933a-174cef1aaa92",
+    "Ratings": 15,
+    "description": "odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum"
+  },
+  {
+    "id": "de5af88e-6f34-49ca-bdac-60d04eba65c3",
+    "name": "Enteric Coated Aspirin",
+    "price": 55.95,
+    "CategoryId": "a0cdf6cc-1971-43e8-924d-5a82eb6b4bae",
+    "Ratings": 16
+  },
+  {
+    "id": "bd900090-5f92-4661-8cff-4137a7acfbd6",
+    "name": "Walgreens",
+    "price": 65.72,
+    "ImageUrl": "http://dummyimage.com/1423x1660.png/dddddd/000000",
+    "CategoryId": "021c3e32-73e5-422b-a328-532fd296742e",
+    "Ratings": 17,
+    "description": "placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim"
+  },
+  {
+    "id": "dc40b5bd-b3b8-42d6-b235-6f9760864c17",
+    "name": "Walgreens",
+    "price": 25.64,
+    "ImageUrl": "http://dummyimage.com/1355x1800.png/5fa2dd/ffffff",
+    "CategoryId": "8759596b-a6a1-49bb-92a3-2de92d12def1",
+    "Ratings": 18,
+    "description": "phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede"
+  },
+  {
+    "id": "a57022ac-df57-4eda-8a34-bb26684f9177",
+    "name": "Hydrogen Peroxide",
+    "price": 108.03,
+    "ImageUrl": "http://dummyimage.com/1337x1561.png/dddddd/000000",
+    "CategoryId": "184e26a1-98cd-4d55-a69a-12e07bdd50f2",
+    "Ratings": 19,
+    "description": "habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer"
+  },
+  {
+    "id": "8c22f93b-6982-4e98-90a8-9de844bdb898",
+    "name": "Carvedilol",
+    "price": 129.59,
+    "ImageUrl": "http://dummyimage.com/1556x1571.png/dddddd/000000",
+    "CategoryId": "a15d1ee4-f9bf-4f6b-b120-88b95b515087",
+    "Ratings": 20,
+    "description": "ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel"
+  }
+]

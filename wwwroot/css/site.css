@@ -1,0 +1,587 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=Raleway');
+:root {
+    --blue: #40BFFF;
+    --red: #FF4858;
+    --lightblue: #BCDDFE;
+    --black: #373737;
+    --faint: rgb(170, 170, 170);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: var(--black);
+}
+
+#amount {
+    margin-left: 5%;
+    margin-right: 1%;
+}
+
+#banners {
+    align-items: flex-end;
+    background-color: white;
+    box-sizing: border-box;
+    display: flex;
+    margin: -9rem auto 0 auto;
+    width: 80%;
+}
+
+.banner-item-txt > p:first-child {
+    font-weight: bold;
+}
+
+.banner-item-txt {
+    margin: 1rem 0 0 1rem;
+    position: absolute;
+}
+
+.banner-item > img {
+    width: 100%;
+}
+
+.best-cards {
+    box-sizing: border-box;
+    border: solid 1px rgb(221, 221, 221);
+    text-align: center;
+    width: 15rem;
+}
+
+    .best-cards > img {
+        width: 100%;
+    }
+
+#best-seller {
+    margin: 5rem auto 0 auto;
+}
+
+#best-seller-cards {
+    display: grid;
+    grid: repeat(2, 1fr)/ repeat(4, 1fr);
+    gap: 1rem;
+    padding: 1rem;
+    width: 80%;
+    margin: auto;
+}
+
+#best-seller > a {
+    color: var(--blue);
+    display: block;
+    margin: 1rem 0 4rem 0;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#best-seller-nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem auto 0 auto;
+    text-align: center;
+    width: 50%;
+    font-weight: bolder;
+}
+
+    #best-seller-nav > a:hover {
+        color: var(--blue);
+        text-decoration: underline;
+    }
+
+body {
+    /* background-color: white; */
+    color: var(--black);
+    font-family: 'Poppins';
+}
+button{
+    display: inline-block;
+    background-color: var(--blue);
+    color: white;
+    border: 1px solid var(--blue);
+    font-size: 1rem;
+    font-weight: bold;
+    width: 6rem;
+    height: 2.7rem;
+    text-align: center;
+}
+
+.card-cost {
+    color: var(--blue);
+    font-family: 'Raleway';
+    font-weight: bolder;
+}
+
+.card-percent-off {
+    color: var(--red);
+    font-family: 'Raleway';
+    font-weight: bolder;
+}
+
+.cart-container {
+    display: inline-block;
+    margin-left: 5%;
+}
+.container{
+    margin: 100px;
+    background-color: #0366d6;
+    height: auto;
+    width: auto;
+    border: 1px solid red;
+}
+
+.cost {
+    color: var(--blue);
+    font-family: 'Raleway';
+    font-weight: bolder;
+    margin: -3rem 0 0 15rem;
+}
+
+.cost-container {
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+}
+.discount-cost{
+    color: var(--faint);
+    display: inline-block;
+    text-decoration: line-through;
+}
+#featured-products{
+    display: flex;
+    justify-content: space-between;
+    margin: 5% auto 10% auto;
+    width: 80%;
+}
+.featured-product{
+    box-sizing: border-box;
+    display:flex;
+    gap: 1rem;
+    align-content: start;
+}
+.featured-product-pic>img{
+    width: 100%;
+}
+.featured-product-pic{
+    width: 7rem;
+}
+
+.featured-product-txt{
+    text-align: left;
+}
+.featured-product-txt>.cost-container{
+    justify-content: flex-start;
+}
+.featured-product-txt>.rates{
+    margin-top: 0.7rem;
+    margin-bottom: 0.5rem;
+}
+footer{
+    background-color: var(--lightblue);
+}
+#footer {
+    display: flex;
+    padding: 0 10% 0 10%;
+    justify-content: space-between;
+    margin: 10% auto 10% auto;
+    align-content: center;
+    align-items: center;
+    text-align: left;
+    padding: 10rem 10% 0 10%;
+}
+.footer-description {
+    font-size: 0.7rem;
+    width: 80%;
+    text-align: left;
+}
+.footer-img{
+    gap:1rem;
+    display: flex;
+}
+.footer-logo{
+    display: flex;
+    justify-content: flex-end;
+}
+.footer-title {
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: left;
+    
+}
+
+.footer-txt {
+    text-align: left;
+    width: 20%;
+}
+#footer2 {
+    display: flex;
+    padding: 0 10% 0 10%;
+    justify-content: space-between;
+    margin: 10% auto 10% auto;
+    align-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+.footer2-description {
+    font-size: 0.7rem;
+    width: 80%;
+    text-align: left;
+}
+
+.footer2-title {
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.footer2-txt {
+    text-align: left;
+    width: 20%;
+}
+
+form{
+    background-color: var(--blue);
+    display: flex;
+    margin: 0 auto 5rem auto;
+    align-items: center;
+    height: auto;
+    width: 32rem;
+}
+h1 {
+    font-size: 4em;
+    font-weight: bold;
+    padding: 18rem 0 0 4rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+header {
+    margin: auto;
+    width: 80%;
+    padding: 1rem 5rem 0 0rem;
+}
+hr{
+    color:white;
+    border: 1px solid white;
+    margin-top: 5rem;
+}
+
+
+.Nav-bar {
+    font-size: smaller;
+}
+
+.Nav-bar, .Nav-bar2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+#Nav-bar-items {
+    display: flex;
+    justify-self: end;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Nav-link {
+    font-weight: bolder;
+}
+
+    .Nav-link:hover {
+        color: var(--blue);
+    }
+
+#Navlink-Wrap {
+    display: flex;
+    gap: 30%;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+@media (max-width: 600px) {
+    .Nav-bar, .Nav-bar2{
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 992px) {
+    #banners {
+        background-color: none;
+        flex-wrap: wrap;
+    }
+    #best-seller{
+        display: block;
+    }
+
+    #best-seller-cards {
+        display: block;
+    }
+
+    .nav-bar2 > img {
+        display: block;
+    }
+
+    .nav-bar2 > img:hover {
+        background-color: var(--light-blue);
+        border-radius: 1px var(--blue);
+    }
+
+    #nav-link-wrapper {
+        display: none;
+    }
+
+    #news-cards {
+        gap: 2rem;
+    }
+
+    #services, #news-cards, #featured, #footer1, #footer2 {
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        gap: 2rem;
+        align-items: center;
+    }
+
+    .service {
+        margin-bottom: 2rem;
+    }
+}
+
+
+
+
+.news-card{
+    display:flex;
+    gap: 1rem;
+}
+.news-card-img{
+    box-sizing:border-box;
+    width: 40%;
+}
+.news-card-img>img{
+    width: 100%;
+}
+#news-cards{
+    display: flex;
+    margin: 5% auto 10% auto;
+    width: 80%;
+}
+.news-card-txt{
+    width: 40%;
+}
+.news-date{
+    color: var(--black-faint);
+    font-size: 1rem;
+}
+.news-description{
+    font-size: 0.7rem;
+}
+.news-title{
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+#Nav-Search {
+    background-image: url("../Ecom-Img/search-icon.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    border: none;
+    height: 25px;
+    width: 10%;
+}
+
+#Nav-Search:focus {
+    background-image: none;
+    border: solid 2px;
+    width: 40%;
+}
+.main-cost{
+    color: var(--red);
+    font-family: 'Raleway';
+    font-weight: bolder;
+}
+
+#Offer-banner {
+    background-image: url("../Ecom-Img/Promotion-Image.png");
+    color: white;
+    height: 110vh;
+}
+
+.old-card-price {
+    color: rgb(170, 169, 169);
+    text-decoration: line-through;
+    display: inline-block;
+}
+
+.old-price {
+    color: rgb(170, 169, 169);
+    text-decoration: line-through;
+    display: inline-block;
+}
+
+.percent-off {
+    color: var(--red);
+    font-weight: bolder;
+}
+
+.profile-container {
+    display: flex;
+    width: 30%;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.profile-container > a {
+    display: inline-block;
+    margin-left: 10%;
+}
+#search{
+    display: inline-block;
+    margin: auto;
+    border: 2px solid var(--blue);
+    text-align: left;
+    height: 2rem;
+    padding: 0.2rem 0rem 0 1rem;
+    width: 25rem;
+}
+
+select {
+    border: none;
+    font-weight: bold;
+}
+
+#services{
+    display: flex;
+    padding: 0 10% 0 10%;
+    justify-content: space-between;
+    margin: 10% auto 10% auto;
+    align-content:center;
+    align-items:center;
+}
+.service{
+    text-align:center;
+    width: 20%;
+}
+.service-description{
+    font-size: 0.7rem;
+    margin: auto;
+    width: 80%;
+}
+.servive>img{
+    margin-bottom: 2rem;
+    width: 30%;
+}
+.service-title{
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+#shop-banner {
+    background-color: var(--blue);
+    display: flex;
+    color: white;
+    
+}
+#shop-ban-txt {
+    width: 50%;
+    padding: 9% 10% 10% 10%;
+}
+#shop-ban-link{
+    color: white;
+    font-weight:bold;
+    text-decoration: underline;
+}
+#shop-ban-txt-big {
+    font-size:3.3rem;
+    font-weight: bold;
+    width:40rem;
+    margin-bottom:1rem;
+}
+#shop-ban-txt-small{
+    font-size:1.5rem;
+    margin-bottom:1rem;
+}
+#shop-banner-pic{
+    display: absolute;
+    margin: -4% auto 0% -27%;
+}
+
+#shop-banner-pic>img{
+    width:40rem;
+}
+
+
+/* Login and SignUp*/
+
+.login-page {
+    width: 360px;
+    padding: 8% 0 0;
+    margin: auto;
+}
+
+.form {
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+    .form input {
+        font-family: "Roboto", sans-serif;
+        outline: 0;
+        background: #f2f2f2;
+        width: 100%;
+        border: 0;
+        margin: 0 0 15px;
+        padding: 15px;
+        box-sizing: border-box;
+        font-size: 14px;
+        border: 1px solid red;
+    }
+
+    .form button {
+        font-family: "Roboto", sans-serif;
+        text-transform: uppercase;
+        outline: 0;
+        background: #4CAF50;
+        width: 100%;
+        border: 0;
+        padding: 15px;
+        color: #FFFFFF;
+        font-size: 14px;
+        -webkit-transition: all 0.3 ease;
+        transition: all 0.3 ease;
+        cursor: pointer;
+    }
+
+        .form button:hover, .form button:active, .form button:focus {
+            background: #43A047;
+        }
+
+    .form .message {
+        margin: 15px 0 0;
+        color: #b3b3b3;
+        font-size: 12px;
+    }
+
+        .form .message a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+
+    .form .register-form {
+        display: none;
+    }

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<ECommerce.Models.User>
+@{
+    
+}
+<div class="container">
+   
+        @foreach(var item in Model)
+        {
+             <div class="form-group">
+                 <ul>
+                     <li>
+                         @item.FirstName
+                     </li>
+                      <li>
+                         @item.LastName
+                     </li>
+                      <li>
+                         @item.Email
+                     </li>
+                      <li>
+                         @item.DateOfBirth
+                     </li>
+                      <li>
+                         @item.DateCreated
+                     </li>
+                      <li>
+                         @item.DateModified
+                     </li>
+                 </ul>
+
+            </div>
+        }
+   
+</div>

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce", "ECommerce.csproj", "{FF55419A-9950-4862-8139-19695D8C9928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\Repository\Repository.csproj", "{02DCBCAC-1B46-40A9-8D2B-7A6192F06E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{C222FFA5-A9AF-4DB1-817E-CCE3FDB2A4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF55419A-9950-4862-8139-19695D8C9928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF55419A-9950-4862-8139-19695D8C9928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF55419A-9950-4862-8139-19695D8C9928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF55419A-9950-4862-8139-19695D8C9928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DCBCAC-1B46-40A9-8D2B-7A6192F06E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DCBCAC-1B46-40A9-8D2B-7A6192F06E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DCBCAC-1B46-40A9-8D2B-7A6192F06E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DCBCAC-1B46-40A9-8D2B-7A6192F06E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C222FFA5-A9AF-4DB1-817E-CCE3FDB2A4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C222FFA5-A9AF-4DB1-817E-CCE3FDB2A4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C222FFA5-A9AF-4DB1-817E-CCE3FDB2A4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C222FFA5-A9AF-4DB1-817E-CCE3FDB2A4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EDF8E0A-F0BF-4354-816D-F052D5BF2490}
+	EndGlobalSection
+EndGlobal

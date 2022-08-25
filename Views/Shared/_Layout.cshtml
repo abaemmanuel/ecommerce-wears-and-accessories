@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ECommerce</title>
+   @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
+    <link rel="stylesheet" href="~/css/site.css"/>
+</head>
+<body>
+    <header>
+        <nav class="Nav-bar">
+            <div class="Language-Currency-Select">
+                <select name="language" id="langauge">
+                    <option value="EN">EN</option>
+                    <option value="FR">FR</option>
+                </select>
+                  <select name="currency" id="currency">
+                      <option value="USD">USD</option>
+                      <option value="NGN">NGN</option>
+                  </select>
+            </div>
+            <div id="Nav-bar-items">
+                <div class="profile-container">
+                    <img src="~/Ecom-Img/profile_close_2.png" alt="" />
+                    <a asp-controller="Authentication" asp-action="Login" >Login</a>
+                </div>
+                <div class="cart-container" style="width: 50px">
+                    <img src="~/Ecom-Img/Cart.png" alt="">
+                    <svg class="cart-count" width="50" height="50" style="display: block; margin: -110% 0 0 -5%; ">
+                    <circle cx="25" cy="25" r="10" stroke="white" stroke-width="2" fill="red" />
+                    <text x="20"  y="30" fill="white">8</text>
+                    </svg>
+                </div>
+                    <a id="Items" href="">Items</a>
+                   <a id="amount">$0.00</a>
+                   <input type="text" name="Search" id="Nav-Search" value="" placeholder="">
+            </div>
+        </nav>
+        
+        <nav class="Nav-bar2">
+            <img src="~/Ecom-Img/FOOTER.png" alt="">
+            <div id="Navlink-Wrap">
+                <a href="" class="Nav-link">HOME</a>
+                <a href="" class="Nav-link">BAGS</a>
+             <a href="" class="Nav-link">SNICKERS</a>
+             <a href="" class="Nav-link">BELTS</a>
+             <a href="" class="Nav-link">CONTACTS</a>  
+            </div>
+        </nav>
+    </header>
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+       
+        <div id="footer">
+             <div class="footer-txt">
+                <img src="~/Ecom-Img/FOOTER.png"/>
+                <p class="footer-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, laudantium!</p>
+            </div>
+             <div class="footer-txt">
+                <p class="footer-title">Follow Us</p>
+                <p class="footer-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, laudantium!</p>
+                <div class="footer-img">
+                    <img src="~/Ecom-img/facebook (1).png" />
+                    <img src="~/Ecom-img/twitter (1).png" />
+                </div>
+             </div>
+             <div class="footer-txt">
+                <p class="footer-title">Contact Us</p>
+                <p class="footer-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, laudantium!</p>
+             </div>
+         </div>
+         <div id="footer2">
+             <div class="footer2-txt">
+                <p class="footer2-title">Information</p>
+                <p class="footer2-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, laudantium!</p>
+             </div>
+             <div class="footer2-txt">
+                <p class="footer2-title">Service</p>
+                <p class="footer2-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, laudantium!</p>
+             </div>
+             <div class="footer2-txt">
+                <p class="footer2-title">My Account</p>
+                <p class="footer2-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, laudantium!</p>
+             </div>
+             <div class="footer2-txt">
+                <p class="footer2-title">Our Offers</p>
+                <p class="footer2-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, laudantium!</p>
+             </div>
+         </div>
+         <hr />
+         <div class="footer-logo">
+             <img src="~/Ecom-img/Western-union.png" />
+             <img src="~/Ecom-img/Group 19.png" />
+             <img src="~/Ecom-img/Paypal.png" />
+             <img src="~/Ecom-img/Group 525.png" />
+         </div>
+        <div class="container">
+            &copy; 2022 - ECommerce - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

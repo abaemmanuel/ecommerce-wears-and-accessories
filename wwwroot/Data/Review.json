@@ -1,0 +1,122 @@
+﻿[
+  {
+    "id": "0b2ac665-80b7-4048-82d3-05ebe7cf01ef",
+    "UserId": "454d996d-b1b7-41c9-92df-6ac2e1283305",
+    "Description": "ut nulla sed accumsan felis ut at dolor quis odio consequat varius",
+    "Rate": 1
+  },
+  {
+    "id": "740ff359-4011-4bea-bb59-7925169dae3f",
+    "UserId": "a5a4b795-0ab1-42d8-a41c-bf3f2baa2fab",
+    "Description": "nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris",
+    "Rate": 2
+  },
+  {
+    "id": "6271f17a-28a2-4d64-9960-50d2279c3ab3",
+    "UserId": "207390d1-15f2-4cc1-b526-531da0b41b5b",
+    "Description": "id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et",
+    "Rate": 3
+  },
+  {
+    "id": "01255ee6-5f3c-41e6-a0ce-275a68da2451",
+    "UserId": "01f3e1e1-0eb8-402e-bf50-a706bfbb0357",
+    "Description": "erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor",
+    "Rate": 4
+  },
+  {
+    "id": "4016efc5-d0b4-4ffa-ac69-e713b2a446cf",
+    "UserId": "1583db1d-b4f0-49ac-9a70-6260728b365f",
+    "Description": "aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in",
+    "Rate": 5
+  },
+  {
+    "id": "dac82fa7-f60a-4772-8dba-92f657df43cd",
+    "UserId": "ac3c5d70-4c4e-4bcd-99f9-c47af29130e8",
+    "Description": "ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque",
+    "Rate": 6
+  },
+  {
+    "id": "f3e9a829-5645-4cc5-b818-b4d6dbc8637d",
+    "UserId": "a63dfa06-105b-430d-bd1d-a57837b93790",
+    "Description": "elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus",
+    "Rate": 7
+  },
+  {
+    "id": "70821a8f-2cfc-416f-a545-0e0e4305ce4b",
+    "UserId": "25448381-9441-4725-82f5-24fa3bbba136",
+    "Description": "turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh",
+    "Rate": 8
+  },
+  {
+    "id": "e1828088-88e7-46d8-acb4-fd495ed1712a",
+    "UserId": "b5b5581b-cc98-4ece-b957-611a4b144168",
+    "Description": "vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non",
+    "Rate": 9
+  },
+  {
+    "id": "6e0d2e39-8a16-44ec-a442-399248549756",
+    "UserId": "7106957e-9c4a-4705-b2d3-060f7e4e6e8b",
+    "Description": "ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in",
+    "Rate": 10
+  },
+  {
+    "id": "28142363-5ad4-454b-8241-696b92a8f729",
+    "UserId": "6547654f-89fe-4abe-a4ff-d3e93ddc4f00",
+    "Description": "ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis",
+    "Rate": 11
+  },
+  {
+    "id": "71ec4475-f458-4ea1-9d2b-e598f3158ef9",
+    "UserId": "1a5f679a-0784-40a6-932f-53bfd4c90850",
+    "Description": "dui vel sem sed sagittis nam congue risus semper porta volutpat quam",
+    "Rate": 12
+  },
+  {
+    "id": "01b52ffc-b8e4-4ba5-9a99-a9e65d76e2a4",
+    "UserId": "2469c4f7-b99e-4840-9c5b-f3501f0001f7",
+    "Description": "primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse",
+    "Rate": 13
+  },
+  {
+    "id": "f5e092ec-00e0-471b-b368-8d3f75a40966",
+    "UserId": "1f5579dc-7ead-455c-8474-b59cc4b4ad6b",
+    "Description": "fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id",
+    "Rate": 14
+  },
+  {
+    "id": "302023bf-6554-4f97-9b78-a5eebccd65aa",
+    "UserId": "266f4e8c-f0dc-4cce-90dc-6085182c2096",
+    "Description": "eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna",
+    "Rate": 15
+  },
+  {
+    "id": "ca0458eb-4239-49a7-b5fd-d6d0b4f77c4c",
+    "UserId": "a3a8f345-fd3a-4997-a49c-561051022f5f",
+    "Description": "non mi integer ac neque duis bibendum morbi non quam nec dui",
+    "Rate": 16
+  },
+  {
+    "id": "5b222fd3-e0d9-421c-9ec7-94e5bded43c2",
+    "UserId": "b6e96e26-b97f-4127-b13e-192459098123",
+    "Description": "nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum",
+    "Rate": 17
+  },
+  {
+    "id": "50eb7a9a-8c7c-4aaa-a87b-c0ed046ab1d5",
+    "UserId": "87e5c210-1330-4ea4-a802-9828787b543c",
+    "Description": "platea dictumst morbi vestibulum velit id pretium iaculis diam erat",
+    "Rate": 18
+  },
+  {
+    "id": "a595a16d-1c2c-48ee-b9c7-72616dd6d00f",
+    "UserId": "6d15c9fa-b274-4ee3-b60f-c28535de9077",
+    "Description": "ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque",
+    "Rate": 19
+  },
+  {
+    "id": "d6b8db1d-6ccf-4e3d-863b-4d4da35b266a",
+    "UserId": "218016a7-3e56-4461-904e-04bb0ba33d98",
+    "Description": "sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend",
+    "Rate": 20
+  }
+]
